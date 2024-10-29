@@ -26,6 +26,10 @@ public class Main {
         butoni.start();
         */
 
+        ButoniAct3 b3 = new ButoniAct3();
+        HomeDelsNassos h = new HomeDelsNassos();
+        b3.start();
+
 
     }
 }
